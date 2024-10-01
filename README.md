@@ -1,4 +1,9 @@
-**Warning:** 
+### THIS IS THE FORK REPO FROM ORIGINAL ONE
+
+Since they do not maintenance the package anymore, I publish just one just to fix the onPaste issue.
+Refer to this merge request: https://github.com/AndrewRedican/react-json-editor-ajrm/pull/193/commits/1bdb891ff6bf2dc713e51bf35272a60aff035a47
+
+**Warning:**
 
 As you may already know, the react-json-editor-ajrm's orignal project is not actively maintained and that
 it will eventually be deprecated. So I've decided to set an official date for deprecation. The tentative date for this is June 15, 2023.
